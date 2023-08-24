@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**Sullivan1301/Sullivan1301** is a ✨ IT Student ✨
+**Sullivan1301** is a ✨ IT Student ✨
 
 - 🔭 I’m currently working on HEI or Haute Ecole d'Informatique
 - 🌱 I’m currently learning HTML, CSS, Javascript, Java, ReactJS, Nodejs, using AWS
