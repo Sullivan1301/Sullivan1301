@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I’m a freelance tech professional based in Madagascar 🇲🇬, working with businesses and teams to turn ideas into functional, user-focused digital products.
+I'm a freelance tech professional based in Madagascar 🇲🇬, working with businesses and teams to turn ideas into functional, user-focused digital products.
 
 My profile sits at the intersection of **development, product thinking, and digital communication**, allowing me to understand both technical and business challenges.
 
@@ -26,60 +26,60 @@ My profile sits at the intersection of **development, product thinking, and digi
 ## 🛠️ Core Skills
 
 ### 👨‍💻 Development
-HTML • CSS • JavaScript • TypeScript  
-React • Next.js • Node.js • Java  
+HTML • CSS • JavaScript • TypeScript
+React • Next.js • Node.js • Java
 
 ### 🧩 Product & Digital
-Product thinking • Agile collaboration • UX awareness  
-Community management • Content strategy  
+Product thinking • Agile collaboration • UX awareness
+Community management • Content strategy
 
 ### ☁️ Tools & Environment
-Git • Linux • Docker • AWS (basics)  
+Git • Linux • Docker • AWS (basics)
 
 ### 🎨 Design & Productivity
-Figma • Notion • Jira • Canva  
+Figma • Notion • Jira • Canva
 
 ---
 
 ## 🌍 What I Bring
 
-✔️ Ability to translate business needs into digital solutions  
-✔️ Strong communication and stakeholder collaboration  
-✔️ Hybrid profile: tech + product + marketing  
-✔️ Ownership mindset and adaptability  
+✔️ Ability to translate business needs into digital solutions
+✔️ Strong communication and stakeholder collaboration
+✔️ Hybrid profile: tech + product + marketing
+✔️ Ownership mindset and adaptability
 
 ---
 
 ## 🎯 Current Focus (2026)
 
-- Building robust and scalable web applications  
-- Collaborating with international remote teams  
-- Improving architecture and system design skills  
-- Expanding freelance projects and agency impact  
+- Building robust and scalable web applications
+- Collaborating with international remote teams
+- Improving architecture and system design skills
+- Expanding freelance projects and agency impact
 
 ---
 
 ## 📂 Portfolio
 
-👉 https://sullivan-portfolio.vercel.app  
+👉 https://sullivan-portfolio.vercel.app
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
-- 💼 LinkedIn → https://www.linkedin.com/in/joro-sullivan-99b183249  
-- 🌐 Open to freelance & remote roles worldwide  
+- 💼 LinkedIn → https://www.linkedin.com/in/joro-sullivan-99b183249
+- 🌐 Open to freelance & remote roles worldwide
 
 ---
 
 ## 🔎 ATS Keywords
 
-Web Developer • Frontend Developer • Full Stack Developer  
-React Developer • JavaScript Developer • TypeScript  
-Product Owner • Product Management • Agile  
-Digital Project Management • Community Manager  
-Remote Developer • Freelance Developer  
-UI/UX Collaboration • Web Applications • SaaS  
+Web Developer • Frontend Developer • Full Stack Developer
+React Developer • JavaScript Developer • TypeScript
+Product Owner • Product Management • Agile
+Digital Project Management • Community Manager
+Remote Developer • Freelance Developer
+UI/UX Collaboration • Web Applications • SaaS
 
 ---
 
