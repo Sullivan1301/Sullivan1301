@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sullivan</h1>
+<h1 align="center">Hi 👋, I'm Sullivan Joro RAKOTONIAINA</h1>
 <h3 align="center">🌍 Freelance Web Developer • Product-Oriented • Digital & Community Specialist</h3>
 
 ---
@@ -61,13 +61,15 @@ Figma • Notion • Jira • Canva
 
 ## 📂 Portfolio
 
-👉 https://sullivan-portfolio.vercel.app
+👉 https://sullivan.techbloom.dev
 
 ---
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn → https://www.linkedin.com/in/joro-sullivan-99b183249
+- 💼 LinkedIn → https://www.linkedin.com/in/sullivan-rakotoniaina
+- 🏢 Agency → https://techbloom.dev
+- 🔗 All my links → https://linktr.ee/sullivan_joro
 - 🌐 Open to freelance & remote roles worldwide
 
 ---
